@@ -1,0 +1,6 @@
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_5\Matrix_development\obj\Debug\Matrix_development.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_5\Matrix_development\bin\Debug\Matrix_development.exe.config
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_5\Matrix_development\bin\Debug\Matrix_development.exe
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_5\Matrix_development\bin\Debug\Matrix_development.pdb
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_5\Matrix_development\obj\Debug\Matrix_development.exe
+C:\Users\Andrey\Desktop\funny_sheet\CS\Laba_5\Matrix_development\obj\Debug\Matrix_development.pdb
