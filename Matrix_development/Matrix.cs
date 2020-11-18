@@ -17,6 +17,11 @@ namespace Matrix_development
             this.innerData = new double[size_i, size_j];
         }
 
+        public Matrix(double[,] array)
+        {
+            this.innerData = array;
+        }
+
 
         public double this[int i, int j]
         {

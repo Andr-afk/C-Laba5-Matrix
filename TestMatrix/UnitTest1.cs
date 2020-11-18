@@ -168,6 +168,23 @@ namespace TestMatrix
         }
 
         [TestMethod]
+        public void Constructor_array()
+        {
+            double[,] array = { { 1, 2, 3 }, { 3, 4, 5 } };
+            Matrix a = new Matrix(array);
+
+            for (int i = 0; i < array.GetLength(0); i++)
+            {
+                for (int j = 0; j < array.GetLength(1); j++)
+                {
+                    if (a[i, j] != array[i, j]) Assert.Fail("Массивы не равны!");
+                }
+            }
+
+            Assert.IsTrue(true);
+        }
+
+        [TestMethod]
         [ExpectedException(typeof(Exception))]
         public void Indecsator()
         {
